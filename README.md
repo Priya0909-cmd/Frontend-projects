@@ -11,7 +11,7 @@ Each project focuses on UI design, layout, responsiveness, and core web developm
   - Footer layout similar to Amazon
   - Clean and structured UI
 
-2. Drum Kit
+2. Drum Kit: 
    An interactive drum kit built with JavaScript.
 
 **Features:**
@@ -20,7 +20,7 @@ Each project focuses on UI design, layout, responsiveness, and core web developm
 - Multiple sound effects mapped to different keys  
 - Lightweight and responsive design  
 
-3. Live Clock
+3. Live Clock: 
    A live clock built using HTML, CSS, and JavaScript.
 
 **Features:**
